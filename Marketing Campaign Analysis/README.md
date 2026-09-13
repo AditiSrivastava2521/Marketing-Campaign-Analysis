@@ -56,20 +56,20 @@ The dashboard includes:
 ## Key Findings
 - **Affiliate is the most efficient channel**. Despite mid-range spend (857.8K), it generated the highest revenue (5.61M) and the best ROAS (6.54x) of any channel.
 - **Paid Search is a close second on efficiency**. It has ROAS of 6.06x, achieved with the fewest impressions of any channel (49.8M), suggesting highly targeted, high-intent traffic.
-- **Display drives the most reach but the weakest efficiency among top spenders**. It has 147M impressions (34% of all impressions) but only 3.91x ROAS, the second-lowest of the five channels.
+- **Display has the most impressions but the weakest efficiency among top spenders**. It has 147M impressions but only 3.91x ROAS, the second-lowest of the five channels.
 - **Video is the weakest channel overall**, with the lowest revenue (2.09M), lowest ROAS (2.52x), and lowest conversions (3,933) despite meaningful spend (828K).
 - **CMP0060 was the top individual campaign**, generating 417.7K in revenue at roughly 6.7x ROAS the strongest of all 120 campaigns.
 - **Clear seasonality**: both spend and revenue peak between August–October each year and dip in February.
-- **2024 was the strongest year** with overall (8.76M revenue on 1.97M spend).
+- **2024 was the strongest year** overall (8.76M revenue on 1.97M spend).
 
 ## Recommendations
 1. **Shift budget from Video toward Affiliate and Paid Search**, given the 2.5–4x ROAS gap between them.
 2. **Study CMP0060 and other top campaigns** for replicable creative, targeting, or timing patterns.
-4. **Increase spend during Aug–Oct seasonal peak** and consider trimming spend in the February trough.
-5. **Monitor Paid Social** as the channel with the most room to close the efficiency gap relative to its revenue scale.
+4. **Increase spend during Aug–Oct seasonal peak** and consider trimming spend in the February dip.
+5. **Monitor Paid Social** since it has the the biggest budget of any channel (984.7K) but has one of the lower ROAS scores (4.76x).
 
 ## Dashboard
-The Power BI dashboard provides an interactive view of marketing campaign performance and allows users to filter results by channel, campaign, and date.
+
 
 ![Dashboard 1](screenshots/dashboard_1.png)
 
